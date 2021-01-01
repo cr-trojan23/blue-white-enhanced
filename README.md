@@ -1,9 +1,5 @@
-Completed the task "Computer vision" for ACM Research Recruitments
+An enhanced version of <a href="https://www.github.com/cr-trojan23/blue-white-enhanced>blue-white</a>
 <br>
-Run pip/pip3 install requirements.txt before running the main.py
+Run pip/pip3 install requirements.txt before running the main2.py
 <br>
-Code submitted by Srinivas
-<br>
-20MID0226
-<br>
-Also, check my mini project, an argument parser coded in java (This was a mini project given by an ACM member ;))
+This branch is unstable.
