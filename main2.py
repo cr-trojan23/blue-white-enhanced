@@ -14,7 +14,7 @@ parser.add_argument("--size", "-s", action="store", type=str, help="Size of resi
 parser.add_argument("--colors", "-c", action="store", type=str, nargs="*", help="RGBA codes of colors to be made transparent. R=Red, G=Green, B=Blue, A=Alpha(Enter 225 if not known)", required=True)
 args = parser.parse_args()
 
-
+#hi comment
 def removeColor(colors):
     img = Image.open("img2.png")
     img = img.convert("RGBA")
