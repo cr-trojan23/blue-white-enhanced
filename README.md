@@ -1,4 +1,4 @@
-Usage:python3/python main2.py [-h] --image IMAGE [--background BACKGROUND] [--size SIZE] --colors [COLORS [COLORS ...]]
+Usage:`python3/python main2.py [-h] --image IMAGE [--background BACKGROUND] [--size SIZE] --colors [COLORS [COLORS ...]]`
 <br>
 A utility which can remove specified colors from an image and make that part transparent, resize images, paste one image on other.
 <br>
